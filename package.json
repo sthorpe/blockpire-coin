@@ -1,0 +1,25 @@
+{
+  "name": "blockpire-coin",
+  "version": "1.0.0",
+  "description": "Blockpire.com ICO coin",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthorpe/blockpire-coin.git"
+  },
+  "author": "Scott Thorpe & Mike Caudillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthorpe/blockpire-coin/issues"
+  },
+  "homepage": "https://github.com/sthorpe/blockpire-coin#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.8.0"
+  }
+}
