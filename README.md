@@ -1,6 +1,6 @@
-# Blockpire Coin
-#
-# Details
-# Inital Supply:
-# Starting Price:
-#
+## Blockpire Coin
+
+*Details
+*Inital Supply:
+*Starting Price:
+
