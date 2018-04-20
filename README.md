@@ -5,7 +5,7 @@ An `ERC20` standard token. Built on the [OpenZeppelin](https://openzeppelin.org/
 
 ### Setup
 
-You'll need the [yarn tool installed](https://yarnpkg.com/lang/en/docs/install/).
+You'll need the [npm tool installed](https://www.npmjs.com/get-npm).
 Grab [ganache one click blockchain dapp](http://truffleframework.com/ganache/).
 
 
