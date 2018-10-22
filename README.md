@@ -9,7 +9,7 @@ You'll need the [npm tool installed](https://www.npmjs.com/get-npm).
 
 Download truffle https://truffleframework.com/ganache
 
-# To deploy blockpire-coin on test or mainnet
+### To deploy blockpire-coin on test or mainnet
 ```
 $ cd blockpire-coin
 $ npm install
