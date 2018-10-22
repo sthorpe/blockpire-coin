@@ -23,8 +23,8 @@ $ truffle console
 '0xddac5d057c79facd674bc95dfd9104076fd34d6b'
 
 // The address of the BPI token instance that was created when the crowdsale contract was deployed
-// assign the result of DapTokenCrowdsale.deployed() to the variable crowdsale
-> DapTokenCrowdsale.deployed().then(inst => { crowdsale = inst })
+// assign the result of BlockpireCoinCrowdsale.deployed() to the variable crowdsale
+> BlockpireCoinCrowdsale.deployed().then(inst => { crowdsale = inst })
 > undefined
 > crowdsale.token().then(addr => { tokenAddress = addr } )
 > tokenAddress
